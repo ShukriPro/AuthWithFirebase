@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928252460460",
+    "project_id": "shukri-auth",
+    "storage_bucket": "shukri-auth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928252460460:android:b614324fbfd5c31fb3ce09",
+        "android_client_info": {
+          "package_name": "com.shukri.authwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1UGtAA4qHTOWOpQ-Ki3qj1DXej7E1RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
